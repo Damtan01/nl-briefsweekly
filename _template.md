@@ -1,54 +1,50 @@
 
-## Brief #001: { this week's fav title }
+## Brief #000: { this week's fav title }
 
-### Excerpt: { other titles sum}
+### Excerpt: { other titles sum }
 
 ## This Week's Favorite
 
-[Title 1] · x mins read 
+[Title 1]() 
 
-{56 word summary}1
+{56 word summary}
 
 ----
 
-## Business Development
+## Strategy
 
-[Title 2] · x mins read
-
-{56 word summary}
-
-
-[Title 3] · x mins read
+[Title 2]()
 
 {56 word summary}
 
 
-[Title 4] · x mins read
+[Title 3]()
+
+{56 word summary}
+
+
+[Title 4]()
 
 {56 word summary}
 
 
 ----
 
-## Industry
+## Technology
 
-[Title 5] · x mins read
-
-{56 word summary}
-
-
-[Title 6] · 4 mins read
+[Title 5]()
 
 {56 word summary}
 
 
-[Title 7] · 4 mins read
+[Title 6]()
 
 {56 word summary}
 
 
+[Title 7]()
 
-
+{56 word summary}
 
 
 
